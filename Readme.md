@@ -18,19 +18,19 @@ A Python-based 3D visualization tool for tracking and displaying satellite orbit
 
 ## Installation
 
-Clone the repository and install required packages:
+1. Clone the repository and install required packages:
 ```bash
-git clone https://github.com/your-username/orbital-path-visualizer.git
-cd orbital-path-visualizer
+git clone https://github.com/MitanshuKumawat/VSSC_ISRO.git
+cd VSSC_ISRO
 ```
 
-1. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate  # On macOS, use: source .venv/bin/activate
 ```
 
-2. Install required packages:
+3. Install required packages:
 ```bash
 pip install numpy matplotlib pandas pillow ephem sgp4
 ```
